@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.12deffff.css",
-    "main.js": "/static/js/main.20aa3a3a.js",
+    "main.css": "/static/css/main.a459f81d.css",
+    "main.js": "/static/js/main.4120414d.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/Armin_Gross.pdf": "/static/media/Armin_Gross.73e52645ddad7ef08132.pdf",
     "index.html": "/index.html",
-    "main.12deffff.css.map": "/static/css/main.12deffff.css.map",
-    "main.20aa3a3a.js.map": "/static/js/main.20aa3a3a.js.map",
+    "main.a459f81d.css.map": "/static/css/main.a459f81d.css.map",
+    "main.4120414d.js.map": "/static/js/main.4120414d.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12deffff.css",
-    "static/js/main.20aa3a3a.js"
+    "static/css/main.a459f81d.css",
+    "static/js/main.4120414d.js"
   ]
 }
